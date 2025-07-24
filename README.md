@@ -5,6 +5,9 @@
 
 ---
 
+## ⚠️ Note
+- I’m currently using this GitHub profile as my new workspace. Unfortunately, I lost access to my previous account. All future repositories, updates, and collaborative work    will be maintained here.
+
 ## 🔍 About Me
 
 - 🎓 **Research Assistant @ KIIT University**, working on lightweight models for early-stage brain tumor detection.
